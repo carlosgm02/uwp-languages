@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Common">
+      <UniqueIdentifier>{5fde7597-833a-42fa-9718-b382d9fc7f4e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Assets">
+      <UniqueIdentifier>{e85bf858-aa1f-425d-8ebb-83b81d45adc6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes">
+      <UniqueIdentifier>{41FA4445-5F9C-4B69-B5F5-587AA97C6E5E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Other Sources">
+      <UniqueIdentifier>{EB5A3F03-D225-4FE4-AC56-5A468542F4E8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{4C939630-9001-414A-904A-E2D01F5ACE01}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\images">
+      <UniqueIdentifier>{C443F1D1-9709-4318-BA12-80EB9F51429D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Xcode Variable Files">
+      <UniqueIdentifier>{A3AA7B2E-5044-4D08-8D83-D52A717ECC27}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Xml Include="default.rd.xml" />
+    <AppxManifest Include="Package.appxmanifest" />
+    <None Include="Team App_TemporaryKey.pfx" />
+    <Image Include="Assets\LockScreenLogo.scale-200.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\SplashScreen.scale-200.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\Square150x150Logo.scale-200.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\Square44x44Logo.scale-200.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\StoreLogo.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\Wide310x150Logo.scale-200.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <ClInclude Include="..\..\Classes\WebViewAppDelegate.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Classes\WebViewController.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\WebView_Prefix.pch" />
+    <ClangCompile Include="..\..\Classes\WebViewAppDelegate.m">
+      <Filter>Classes</Filter>
+    </ClangCompile>
+    <ClangCompile Include="..\..\Classes\WebViewController.m">
+      <Filter>Classes</Filter>
+    </ClangCompile>
+    <ClangCompile Include="..\..\main.m">
+      <Filter>Other Sources</Filter>
+    </ClangCompile>
+    <SBInfoPlistCopy Include="..\..\WebView-Info.plist" />
+    <SBResourceCopy Include="..\..\images\backIcon.png">
+      <Filter>Resources\images</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\images\backIcon@2x.png">
+      <Filter>Resources\images</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\images\forwardIcon.png">
+      <Filter>Resources\images</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\images\forwardIcon@2x.png">
+      <Filter>Resources\images</Filter>
+    </SBResourceCopy>
+    <Text Include="Team App-Debug-xcvars.txt">
+      <Filter>Xcode Variable Files</Filter>
+    </Text>
+    <Text Include="Team App-Release-xcvars.txt">
+      <Filter>Xcode Variable Files</Filter>
+    </Text>
+    <XibCompile Include="..\..\MainWindow.xib">
+      <Filter>Resources</Filter>
+    </XibCompile>
+  </ItemGroup>
+</Project>
