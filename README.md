@@ -13,7 +13,7 @@ These sample apps can be found in */Samples*. Available projects:
   
 - [**WebView**](Samples/WebView)
 
-  A simple uiWebView app which demonstrates the iOS uiWebView control.
+  A simple WebView app which demonstrates the iOS uiWebView control in action for developing browser apps and/or web wrappers.
 
 - [**BitcoinWallet**](/Samples/BitcoinWallet)
 
