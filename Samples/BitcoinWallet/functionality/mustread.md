@@ -1,5 +1,3 @@
-# Bitcoin Wallet
-
 ## Functionality
 The provided application is a demonstration of the capabilities of the Windows Bridge to iOS. The application is a Bitcoin wallet which runs on the [Bitcoin test3 network](https://en.bitcoin.it/wiki/Testnet), a developer sandbox where the coins have no value other than to demonstrate the usage of the blockchain technology. With this application, a user can create new addresses under their control, create contacts, send and receive bitcoins, and view past transactions.
 
@@ -7,7 +5,7 @@ The application and the associated source code serves to demonstrate the process
 
 ## Setting Up
 
-For this sample, you will need a PC running Windows 10, the [Windows Bridge for iOS](https://github.com/Microsoft/WinObjC), Visual Studio 2015. If you would like to run and see the application for comparison on iOS, you will need a Mac running a modern build of OSX and Xcode 7 or better.
+For this sample, you will need a PC running Windows 10, the [Windows Bridge for iOS](https://github.com/Microsoft/WinObjC), Visual Studio 2017. If you would like to run and see the application for comparison on iOS, you will need a Mac running a modern build of macOS and Xcode 7 or higher.
 
 This sample uses the RESTful API provided by [BlockCypher](https://dev.blockcypher.com/) as a platform independent way to build, marshall, and submit Bitcoin transactions to the peer-to-peer network.
 
