@@ -1,1 +1,1 @@
-These are the Visual Studio project files for "WebView". Make sure to create 'WebView_TemporaryKey.pfx' before running the sample or the app won't be signed and thus won't be compiled.
+These are the Visual Studio project files for "WebView". Make sure to [**create**](https://msdn.microsoft.com/es-ES/Library/windows/apps/br230260(v=vs.110).aspx) 'WebView_TemporaryKey.pfx' before running the sample or the app won't be signed and thus won't be compiled.
