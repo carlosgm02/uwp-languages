@@ -1,0 +1,10 @@
+C:\Users\carlo\source\objc\Apps\WebView\Classes\WebViewAppDelegate.h
+C:\Users\carlo\source\objc\Apps\WebView\Classes\WebViewController.h
+C:\Users\carlo\source\objc\Apps\WebView\WebView_Prefix.pch
+C:\Users\carlo\source\objc\Apps\WebView\WebView.vsimporter\Team App-WinStore10\pch.h
+C:\Users\carlo\source\objc\Apps\WebView\WebView.vsimporter\Team App-WinStore10\App.xaml.h
+C:\Users\carlo\source\objc\Apps\WebView\Classes\WebViewAppDelegate.h	WebView/WebViewAppDelegate.h
+C:\Users\carlo\source\objc\Apps\WebView\Classes\WebViewController.h	WebView/WebViewController.h
+C:\Users\carlo\source\objc\Apps\WebView\WebView_Prefix.pch	WebView/WebView_Prefix.pch
+C:\Users\carlo\source\objc\Apps\WebView\WebView.vsimporter\Team App-WinStore10\pch.h	WebView/pch.h
+C:\Users\carlo\source\objc\Apps\WebView\WebView.vsimporter\Team App-WinStore10\App.xaml.h	WebView/App.xaml.h
