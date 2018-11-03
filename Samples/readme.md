@@ -8,7 +8,7 @@ These are WinObjC sample apps created for demonstrating the most common iOS cont
 
   A simple, Storyboard/Auto Layout-based calculator app created (by Microsoft) for a [Building Apps for Windows tutorial blog post](https://blogs.windows.com/buildingapps/2016/02/18/using-the-ios-bridge-to-bring-storyboards-and-auto-layout-to-windows-10/).
   
-- [**WebView**](/WebView)
+- [**WebView**](/Samples/WebView)
 
   A simple WebView app which demonstrates the iOS uiWebView control in action for developing browser apps and/or web wrappers.
 
