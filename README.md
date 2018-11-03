@@ -24,3 +24,6 @@ These are iOS apps which are fully compatible with WinObjC and UWP. They can be 
 
 ## Modified apps
 These are customized and modified versions of Sample apps and Converted Apps enhanced with more UWP code and features. They can be found in */Enhanced*. Available projects:
+
+## Contributions
+These are iOS existing apps which are modified by everyone publicly. They can be found in */Public*, folder which is available for user contributions. Most remarkable projects:
