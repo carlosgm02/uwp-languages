@@ -18,12 +18,3 @@ These sample apps can be found in */Samples*. Available projects:
 - [**BitcoinWallet**](/Samples/BitcoinWallet)
 
   A Bitcoin wallet app which runs on the Bitcoin test3 network, a developer sandbox where the coins have no value other than to demonstrate the usage of the blockchain technology. With this app, a user can create new addresses under their control, create contacts, send and receive bitcoins, and view past transactions.
-
-## Converted apps
-These are iOS apps which are fully compatible with WinObjC and UWP. They can be found in */Converted*. Available projects:
-
-## Modified apps
-These are customized and modified versions of Sample apps and Converted Apps enhanced with more UWP code and features. They can be found in */Enhanced*. Available projects:
-
-## Contributions
-These are iOS existing apps which are modified by everyone publicly. They can be found in */Public*, folder which is available for user contributions. Most remarkable projects:
