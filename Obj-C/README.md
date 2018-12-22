@@ -2,7 +2,7 @@
 The Windows Bridge for iOS (also referred to as WinObjC) is a Microsoft open-source project that provides an Objective-C development environment for Visual Studio and support for iOS APIs. This folder contains sample WinObjC apps and games for UWP development and testing for Windows 10. (fork original source: https://github.com/Microsoft/winobjc-samples)
 
 ## Sample apps
-These sample apps can be found in */Samples*. Available projects:
+These sample apps show some example features developed in Objective-C for the UWP:
 - [**ToDoList**](/Samples/ToDoList)
 
   A simple to do list app created (by Microsoft) for a [Building Apps for Windows tutorial blog post](https://blogs.windows.com/buildingapps/2016/01/20/building-a-simple-app-with-the-windows-bridge-for-ios/).
