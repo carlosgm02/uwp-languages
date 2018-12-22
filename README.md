@@ -1,2 +1,2 @@
-# UWP-Languages
-Sample apps and games (written in C#, C++, VB.NET, JS, TS, ObjC and Java) for UWP development.
+# UWP Languages Samples
+Universal Windows Platform apps can be created in a great variety of programming languages.
