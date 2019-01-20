@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
+    <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">C:\Users\carlo\source\objc\Apps\BitcoinWallet\BitcoinWallet.vsimporter\BitcoinWallet-WinStore10\project.lock.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\carlo\.nuget\packages\</NuGetPackageFolders>
+    <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">ProjectJson</NuGetProjectStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">4.8.1</NuGetToolVersion>
+  </PropertyGroup>
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+  </PropertyGroup>
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)winobjc.logging\0.2.180220\build\WinObjC.Logging.props" Condition="Exists('$(NuGetPackageRoot)winobjc.logging\0.2.180220\build\WinObjC.Logging.props')" />
+    <Import Project="$(NuGetPackageRoot)winobjc.language\0.2.180220\build\WinObjC.Language.props" Condition="Exists('$(NuGetPackageRoot)winobjc.language\0.2.180220\build\WinObjC.Language.props')" />
+    <Import Project="$(NuGetPackageRoot)winobjc.frameworks.thirdparty\0.2.180220\build\WinObjC.Frameworks.ThirdParty.props" Condition="Exists('$(NuGetPackageRoot)winobjc.frameworks.thirdparty\0.2.180220\build\WinObjC.Frameworks.ThirdParty.props')" />
+    <Import Project="$(NuGetPackageRoot)nuget.build.packaging\0.1.193\build\NuGet.Build.Packaging.props" Condition="Exists('$(NuGetPackageRoot)nuget.build.packaging\0.1.193\build\NuGet.Build.Packaging.props')" />
+    <Import Project="$(NuGetPackageRoot)winobjc.frameworks.core\0.2.180220\build\WinObjC.Frameworks.Core.props" Condition="Exists('$(NuGetPackageRoot)winobjc.frameworks.core\0.2.180220\build\WinObjC.Frameworks.Core.props')" />
+    <Import Project="$(NuGetPackageRoot)winobjc.frameworks.uwp.core\0.2.180220\build\WinObjC.Frameworks.UWP.Core.props" Condition="Exists('$(NuGetPackageRoot)winobjc.frameworks.uwp.core\0.2.180220\build\WinObjC.Frameworks.UWP.Core.props')" />
+    <Import Project="$(NuGetPackageRoot)winobjc.frameworks.uwp\0.2.180220\build\WinObjC.Frameworks.UWP.props" Condition="Exists('$(NuGetPackageRoot)winobjc.frameworks.uwp\0.2.180220\build\WinObjC.Frameworks.UWP.props')" />
+    <Import Project="$(NuGetPackageRoot)winobjc.frameworks\0.2.180220\build\WinObjC.Frameworks.props" Condition="Exists('$(NuGetPackageRoot)winobjc.frameworks\0.2.180220\build\WinObjC.Frameworks.props')" />
+  </ImportGroup>
+</Project>
