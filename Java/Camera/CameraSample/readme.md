@@ -1,1 +1,1 @@
-These are the Visual Studio project files for "CameraSample". Make sure to [**create**](https://www.codenameone.com/blog/java-developers-can-finally-target-windows-uwp.html) 'Keychain_6.pfx' before running the sample or the app won't be signed and thus won't be compiled.
+These are the Eclipse project files for "CameraSample". Make sure to [**create**](https://www.codenameone.com/blog/java-developers-can-finally-target-windows-uwp.html) 'Keychain_6.pfx' before running the sample or the app won't be signed and thus won't be compiled.
