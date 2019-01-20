@@ -1,0 +1,2 @@
+Debug\filemap.pri
+Debug\filemap.map.txt
