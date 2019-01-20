@@ -1,4 +1,4 @@
-# This is the code which will run in the startup task
+# This is the code that will run in the startup task
 
 # Basic Print
 print("New Background UWP App here!")
