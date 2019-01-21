@@ -3,6 +3,6 @@ The Typescript SDK for UWP (also referred to as TS UWP) is a Microsoft open-sour
 
 ## Sample apps
 These sample apps show some example features developed in TypeScript for the UWP:
-- [**Progressive Web App**](/TS/Progressive Web App)
+- [**Progressive Web App**](/TS/ProgressiveWebApp)
 
   A simple Progressive Web App for the Microsoft website for showcasing EdgeHTML service workers and fast website loading thanks to native HTML redirecting and TypeScript navigation.
