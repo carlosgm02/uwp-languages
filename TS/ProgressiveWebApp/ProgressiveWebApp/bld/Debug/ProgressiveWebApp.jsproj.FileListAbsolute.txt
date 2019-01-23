@@ -1,0 +1,34 @@
+C:\Users\carlo\Documents\Visual Studio 2015\Projects\pwatypescript\ProgressiveWebApp\bin\Debug\ReverseMap\resources.pri
+C:\Users\carlo\Documents\Visual Studio 2015\Projects\pwatypescript\ProgressiveWebApp\bin\Debug\AppxManifest.xml
+C:\Users\carlo\Documents\Visual Studio 2015\Projects\pwatypescript\ProgressiveWebApp\bin\Debug\ProgressiveWebApp.build.appxrecipe
+C:\Users\carlo\Documents\Visual Studio 2015\Projects\pwatypescript\ProgressiveWebApp\bld\Debug\ResourceHandlingTask.state
+C:\Users\carlo\Documents\Visual Studio 2015\Projects\pwatypescript\ProgressiveWebApp\bld\Debug\priconfig.xml
+C:\Users\carlo\Documents\Visual Studio 2015\Projects\pwatypescript\ProgressiveWebApp\bld\Debug\priconfig.xml.intermediate
+C:\Users\carlo\Documents\Visual Studio 2015\Projects\pwatypescript\ProgressiveWebApp\bld\Debug\layout.resfiles
+C:\Users\carlo\Documents\Visual Studio 2015\Projects\pwatypescript\ProgressiveWebApp\bld\Debug\layout.resfiles.intermediate
+C:\Users\carlo\Documents\Visual Studio 2015\Projects\pwatypescript\ProgressiveWebApp\bld\Debug\resources.resfiles
+C:\Users\carlo\Documents\Visual Studio 2015\Projects\pwatypescript\ProgressiveWebApp\bld\Debug\resources.resfiles.intermediate
+C:\Users\carlo\Documents\Visual Studio 2015\Projects\pwatypescript\ProgressiveWebApp\bld\Debug\pri.resfiles
+C:\Users\carlo\Documents\Visual Studio 2015\Projects\pwatypescript\ProgressiveWebApp\bld\Debug\pri.resfiles.intermediate
+C:\Users\carlo\Documents\Visual Studio 2015\Projects\pwatypescript\ProgressiveWebApp\bld\Debug\qualifiers.txt
+C:\Users\carlo\Documents\Visual Studio 2015\Projects\pwatypescript\ProgressiveWebApp\bld\Debug\qualifiers.txt.intermediate
+C:\Users\carlo\Documents\Visual Studio 2015\Projects\pwatypescript\ProgressiveWebApp\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\carlo\Documents\Visual Studio 2015\Projects\pwatypescript\ProgressiveWebApp\bld\Debug\ProjectArchitectures.txt
+C:\Users\carlo\Documents\Visual Studio 2015\Projects\pwatypescript\ProgressiveWebApp\bld\Debug\ProgressiveWebApp.jsproj.GenerateResource.Cache
+C:\Users\carlo\source\repos\pwatypescript\ProgressiveWebApp\bld\Debug\ResourceHandlingTask.state
+C:\Users\carlo\source\repos\pwatypescript\ProgressiveWebApp\bin\Debug\ReverseMap\resources.pri
+C:\Users\carlo\source\repos\pwatypescript\ProgressiveWebApp\bin\Debug\AppxManifest.xml
+C:\Users\carlo\source\repos\pwatypescript\ProgressiveWebApp\bin\Debug\ProgressiveWebApp.build.appxrecipe
+C:\Users\carlo\source\repos\pwatypescript\ProgressiveWebApp\bld\Debug\ProgressiveWebApp.jsproj.GenerateResource.Cache
+C:\Users\carlo\source\repos\pwatypescript\ProgressiveWebApp\bld\Debug\priconfig.xml
+C:\Users\carlo\source\repos\pwatypescript\ProgressiveWebApp\bld\Debug\priconfig.xml.intermediate
+C:\Users\carlo\source\repos\pwatypescript\ProgressiveWebApp\bld\Debug\layout.resfiles
+C:\Users\carlo\source\repos\pwatypescript\ProgressiveWebApp\bld\Debug\layout.resfiles.intermediate
+C:\Users\carlo\source\repos\pwatypescript\ProgressiveWebApp\bld\Debug\resources.resfiles
+C:\Users\carlo\source\repos\pwatypescript\ProgressiveWebApp\bld\Debug\resources.resfiles.intermediate
+C:\Users\carlo\source\repos\pwatypescript\ProgressiveWebApp\bld\Debug\pri.resfiles
+C:\Users\carlo\source\repos\pwatypescript\ProgressiveWebApp\bld\Debug\pri.resfiles.intermediate
+C:\Users\carlo\source\repos\pwatypescript\ProgressiveWebApp\bld\Debug\qualifiers.txt
+C:\Users\carlo\source\repos\pwatypescript\ProgressiveWebApp\bld\Debug\qualifiers.txt.intermediate
+C:\Users\carlo\source\repos\pwatypescript\ProgressiveWebApp\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\carlo\source\repos\pwatypescript\ProgressiveWebApp\bld\Debug\ProjectArchitectures.txt
