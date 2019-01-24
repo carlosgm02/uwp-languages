@@ -6,3 +6,7 @@ These sample apps show some example features developed in Java for the UWP:
 - [**Camera**](/Java/Camera)
   
   A simple app that demonstrates how to invoke *Camera* and *Photos* as windows inside the app, with simple buttons and Chrome interface design.
+
+- [**WebView**](/Java/WebView)
+
+  A simple WebView app created for showing how the WebBrowser control works inside a form with border layout in a Java-coded app for developing browser apps and/or web wrappers.
