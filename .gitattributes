@@ -1,0 +1,5 @@
+# C++ reclassifies '.c' files as C:
+*.c linguist-language=Cpp
+
+# C++ reclassifies '.h' files as C:
+*.h linguist-language=Cpp
