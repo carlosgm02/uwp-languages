@@ -1,5 +1,5 @@
 # C++ reclassifies '.c' files as C:
-*.c linguist-language=Cpp
+*.c linguist-language=C++
 
 # C++ reclassifies '.h' files as C:
-*.h linguist-language=Cpp
+*.h linguist-language=C++
