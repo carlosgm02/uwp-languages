@@ -7,7 +7,7 @@ module ProgressiveWebApp {
         let app = WinJS.Application;
         let activation = Windows.ApplicationModel.Activation;
         let utilities = WinJS.Utilities;
-	    let isFirstActivation = true;
+	let isFirstActivation = true;
         const ui = WinJS.UI;
         const nav = WinJS.Navigation;
         const MainPage = "https://www.microsoft.com/";
@@ -87,8 +87,7 @@ module ProgressiveWebApp {
          	}
     } */
 
-    window.location.href = MainPage
-
-	app.start();
+    window.location.href = MainPage;
+    app.start();
 
 }
