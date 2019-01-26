@@ -6,5 +6,4 @@ module ProgressiveWebApp {
 
 	let app = WinJS.Application;
 	app.start();
-
 }
