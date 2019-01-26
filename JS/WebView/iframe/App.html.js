@@ -1,4 +1,4 @@
-﻿// Para obtener una introducción a la plantilla En blanco, consulte la siguiente documentación:
+// Para obtener una introducción a la plantilla En blanco, consulte la siguiente documentación:
 // https://go.microsoft.com/fwlink/?LinkId=232509
 
 (function () {
@@ -75,7 +75,6 @@
         }
     };
 
-
 	function onVisibilityChanged(args) {
 		if (!document.hidden) {
 			// TODO: La aplicación acaba de hacerse visible. Este puede ser un buen momento para actualizar la vista.
@@ -90,5 +89,4 @@
 
     window.location.href = MainPage;
     app.start();
-
 })();
