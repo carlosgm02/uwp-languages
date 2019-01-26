@@ -4,6 +4,9 @@
 # C++ reclassifies '.h' files as C:
 *.h linguist-language=C++
 
+# Oxygene reclassifies '.pas' files as Pascal:
+*.pas linguist-language=Oxygene
+
 # Ignore css style files from Linguist:
 TS/ProgressiveWebApp/ProgressiveWebApp/Components/library/style/* linguist-vendored
 
