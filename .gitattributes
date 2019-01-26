@@ -9,3 +9,6 @@ TS/ProgressiveWebApp/ProgressiveWebApp/Components/library/style/* linguist-vendo
 
 # Ignore css style and js base files from Linguist:
 JS/WebView/iframe/Components/library/* linguist-vendored
+
+# Ignore '.c' files from Linguist:
+*.c linguist-detectable=false
