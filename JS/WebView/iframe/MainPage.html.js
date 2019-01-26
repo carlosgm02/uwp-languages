@@ -46,5 +46,4 @@
         var frame = document.querySelector("x-ms-webview");
         frame.src = MainPage;
     });
-
 })();
