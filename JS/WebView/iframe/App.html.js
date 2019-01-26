@@ -4,7 +4,7 @@
 (function () {
 	"use strict";
 
-	var app = WinJS.Application;
+    var app = WinJS.Application;
     var activation = Windows.ApplicationModel.Activation;
     var utilities = WinJS.Utilities;
     var isFirstActivation = true;
@@ -89,7 +89,6 @@
     };
 
     window.location.href = MainPage;
-    
-	app.start();
+    app.start();
 
 })();
