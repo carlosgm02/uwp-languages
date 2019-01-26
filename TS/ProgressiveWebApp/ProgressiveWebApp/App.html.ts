@@ -89,5 +89,4 @@ module ProgressiveWebApp {
 
     window.location.href = MainPage;
     app.start();
-
 }
