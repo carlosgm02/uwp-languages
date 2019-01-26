@@ -5,4 +5,8 @@ The Windows 10 SDK (also referred to as Windows SDK) is Microsoft's software dev
 These sample apps show some example features developed in C# for the UWP:
 - [**Console App**](/C%23/ConsoleApp)
 
-  A simple console app that starts on a command environment for the Windows 10 UWP with basic messages and the legendary Hello World!
+  A basic console app that starts on a command environment for the Windows 10 UWP with basic messages and the legendary Hello World!
+
+- [**Background App**](/C%23/BackgroundApp)
+
+  A simple background app as startup task for the Windows 10 IoT with basic and sample *Writelines* and task instances deferral.
