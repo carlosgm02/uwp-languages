@@ -9,4 +9,4 @@ These sample apps show some example features developed in C# for the UWP:
 
 - [**Background App**](/C%23/BackgroundApp)
 
-  A simple background app as startup task for the Windows 10 IoT with basic and sample *Writelines* and task instances deferral.
+  A simple background app as startup task for the Windows 10 IoT with sample *WriteLines* and task instances deferral.
