@@ -6,3 +6,7 @@
 
 # Ignore css style files from Linguist:
 TS/ProgressiveWebApp/ProgressiveWebApp/Components/library/style/* linguist-vendored
+
+# Ignore css style and js base files from Linguist:
+JS/WebView/iframe/Components/library/code/* linguist-vendored
+JS/WebView/iframe/Components/library/style/* linguist-vendored
