@@ -12,6 +12,3 @@ JS/WebView/iframe/Components/library/* linguist-vendored
 
 # Ignore '.c' files from Linguist:
 *.c linguist-detectable=false
-
-# Ignore '.h' files from Linguist:
-*.h linguist-detectable=false
