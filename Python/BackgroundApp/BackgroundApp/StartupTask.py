@@ -1,7 +1,7 @@
 # This is the code that will run in the startup task
 
 # Basic Print
-print("New Background UWP App here!")
+print("New Background app here!")
 
 # This is Windows IoT
 mystring = 'Windows'
