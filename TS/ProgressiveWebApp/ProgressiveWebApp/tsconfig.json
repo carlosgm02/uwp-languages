@@ -1,0 +1,17 @@
+﻿{
+  // "compilerOptions": {
+  //  "typeRoots": [
+  //    "./node_modules/@types"
+  //  ],
+  // }
+  // "filesGlob": [
+  //  "**/*.ts",
+  //  "**/*.tsx"
+  // ],
+
+  "files": [
+    "Components/library/code/jquery.d.ts", // add to here.
+    "Components/library/code/winjs.d.ts", // add to here.
+    "Components/library/code/winrt.d.ts" // add to here.
+  ]
+}
