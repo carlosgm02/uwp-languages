@@ -6,6 +6,10 @@ These sample apps show some example features developed in JavaScript for the UWP
 - [**WebView**](/JS/WebView)
 
   A simple WebView app created for showing how the WebView HTML control works in a JavaScript-coded UWP application for developing browser apps and/or web wrappers.
+  
+- [**Progressive Web App**](/JS/ProgressiveWebApp)
+
+  A simple Progressive Web App of the Microsoft website for showcasing EdgeHTML service workers and fast website loading thanks to native HTML redirecting and JavaScript navigation.
 
 - [**Background App**](/JS/BackgroundApp)
 
