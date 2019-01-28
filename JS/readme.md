@@ -13,4 +13,4 @@ These sample apps show some example features developed in JavaScript for the UWP
 
 - [**Background App**](/JS/BackgroundApp)
 
-  A simple background app as startup task for the Windows 10 IoT with sample console logs and sample JavaScript code as placeholder.
+  A simple background app as startup task for the Windows 10 IoT with sample console logs and sample JavaScript code as placeholder for the task.
