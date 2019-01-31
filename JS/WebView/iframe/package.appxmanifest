@@ -4,7 +4,7 @@
   <mp:PhoneIdentity PhoneProductId="3f4c98c2-c0ff-4a4b-ad07-cddbebb840e2" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>WinJS.Iframe</DisplayName>
-    <PublisherDisplayName>WinJS</PublisherDisplayName>
+    <PublisherDisplayName>uwp-languages</PublisherDisplayName>
     <Logo>Assets\storelogo.png</Logo>
   </Properties>
   <Dependencies>
