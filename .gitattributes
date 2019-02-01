@@ -15,3 +15,6 @@ JS/WebView/iframe/Components/library/* linguist-vendored
 
 # Ignore '.html' files from Linguist:
 *.html linguist-detectable=false
+
+# Ignore '.css' files from Linguist:
+*.css linguist-detectable=false
