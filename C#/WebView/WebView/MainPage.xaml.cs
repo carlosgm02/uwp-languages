@@ -75,7 +75,6 @@ namespace WebView
 
         private void WebView_NavigationCompleted(WebView sender, WebViewNavigationCompletedEventArgs args)
         {
-
             SystemNavigationManager.GetForCurrentView().AppViewBackButtonVisibility =
                     WebView.CanGoBack ?
                     AppViewBackButtonVisibility.Visible :
