@@ -16,7 +16,7 @@
 
   <Properties>
     <DisplayName>BackgroundApp</DisplayName>
-    <PublisherDisplayName>WinPy</PublisherDisplayName>
+    <PublisherDisplayName>uwp-languages</PublisherDisplayName>
     <Logo>StoreLogo.png</Logo>
   </Properties>
 
