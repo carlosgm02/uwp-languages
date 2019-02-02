@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" IgnorableNamespaces="uap mp">
-  <Identity Name="SwiftUWP.WebView" Publisher="CN=Usuario" Version="1.0.1.0" />
+  <Identity Name="WinSwift.WebView" Publisher="CN=WinSwift" Version="1.0.1.0" />
   <mp:PhoneIdentity PhoneProductId="1844a6d7-3a98-4a7e-b0ae-2b913eb4522b" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>WebView</DisplayName>
-    <PublisherDisplayName>SwiftUWP</PublisherDisplayName>
+    <PublisherDisplayName>uwp-languages</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
   <Dependencies>
@@ -20,6 +20,9 @@
         </uap:DefaultTile>
         <uap:SplashScreen Image="Assets\SplashScreen.png" BackgroundColor="lightGray" />
       </uap:VisualElements>
+      <uap:ApplicationContentUriRules>
+        <uap:Rule Match="https://www.elementscompiler.com/elements/silver/default.aspx" Type="include" WindowsRuntimeAccess="all" />
+      </uap:ApplicationContentUriRules>
     </Application>
   </Applications>
   <Capabilities>

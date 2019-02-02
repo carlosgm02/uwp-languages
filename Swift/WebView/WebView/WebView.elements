@@ -20,6 +20,7 @@
     <ProjectTypeGuids>{A5A43C5B-DE2A-4C0C-9213-0A381AF9435A};{656346D9-4656-40DA-A068-22D5425D4639}</ProjectTypeGuids>
     <PackageCertificateKeyFile>WebView_TemporaryKey.pfx</PackageCertificateKeyFile>
     <Name>WebView</Name>
+    <PackageCertificateThumbprint>398A5FE798730D2CBE7C0199A68293BB11AAF0A3</PackageCertificateThumbprint>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|ARM'">
     <Optimize>False</Optimize>
