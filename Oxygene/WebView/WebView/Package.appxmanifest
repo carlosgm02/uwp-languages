@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" IgnorableNamespaces="uap mp">
-  <Identity Name="OxygeneUWP.WebView" Publisher="CN=Usuario" Version="1.0.1.0" />
+  <Identity Name="WinOxy.WebView" Publisher="CN=WinOX" Version="1.0.1.0" />
   <mp:PhoneIdentity PhoneProductId="80fd206b-cfd8-4bad-83a3-fa29cf64bed0" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>WebView</DisplayName>
-    <PublisherDisplayName>OxygeneUWP</PublisherDisplayName>
+    <PublisherDisplayName>uwp-languages</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
   <Dependencies>
