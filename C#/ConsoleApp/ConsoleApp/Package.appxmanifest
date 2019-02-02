@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" xmlns:uap5="http://schemas.microsoft.com/appx/manifest/uap/windows10/5" xmlns:desktop4="http://schemas.microsoft.com/appx/manifest/desktop/windows10/4" xmlns:iot2="http://schemas.microsoft.com/appx/manifest/iot/windows10/2" IgnorableNamespaces="uap mp uap5 iot2 desktop4">
-  <Identity Name="csharp.consolesample" Publisher="CN=csharp" Version="1.0.1.0" />
+  <Identity Name="csharp.consolesample" Publisher="CN=WinCS" Version="1.0.1.0" />
   <mp:PhoneIdentity PhoneProductId="cd926442-4303-4949-80b8-67ae4cd3e026" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>ConsoleApp</DisplayName>
-    <PublisherDisplayName>csharp</PublisherDisplayName>
+    <PublisherDisplayName>uwp-languages</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
   <Dependencies>
