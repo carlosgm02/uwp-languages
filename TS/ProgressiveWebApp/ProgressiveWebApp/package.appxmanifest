@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" IgnorableNamespaces="uap mp">
-  <Identity Name="TypeScriptUWP.ProgressiveWebApp" Version="1.0.1.0" Publisher="CN=Usuario" />
+  <Identity Name="TypeScript.ProgressiveWebApp" Version="1.0.1.0" Publisher="CN=WinTS" />
   <mp:PhoneIdentity PhoneProductId="468e788b-a481-4039-9808-793675139100" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>ProgressiveWebApp</DisplayName>
-    <PublisherDisplayName>TypeScriptUWP</PublisherDisplayName>
+    <PublisherDisplayName>uwp-languages</PublisherDisplayName>
     <Logo>Assets\storelogo.png</Logo>
   </Properties>
   <Dependencies>
