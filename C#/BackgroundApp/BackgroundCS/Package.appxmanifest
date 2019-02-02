@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" xmlns:iot="http://schemas.microsoft.com/appx/manifest/iot/windows10" IgnorableNamespaces="uap mp iot">
-  <Identity Name="BackgroundCs" Publisher="CN=csharp" Version="1.0.1.0" />
+  <Identity Name="csharp.backgroundapp" Publisher="CN=WinCS" Version="1.0.1.0" />
   <mp:PhoneIdentity PhoneProductId="df21c243-def8-4ede-9ac6-0a458b22100b" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
-    <DisplayName>csharp.backgroundapp</DisplayName>
-    <PublisherDisplayName>csharp</PublisherDisplayName>
+    <DisplayName>BackgroundCS</DisplayName>
+    <PublisherDisplayName>uwp-languages</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
   <Dependencies>
-    <TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.0.0" MaxVersionTested="10.0.0.0" />
+    <TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.10586.0" MaxVersionTested="10.0.17763.0" />
   </Dependencies>
   <Resources>
     <Resource Language="x-generate" />
