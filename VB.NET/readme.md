@@ -6,10 +6,12 @@ These sample apps show some example features developed in Visual Basic for the U
 
 - [**Notepad**](/VB.NET/Notepad)
 
+  A notepad app created for showing how the text control and modifying files works in a Visual Basic application.
+
 - [**Background App**](/VB.NET/BackgroundApp)
 
-  A simple background app as startup task for the Windows 10 IoT with sample variables, basic math operations and sample Visual Basic code as placeholder.
+  A basic background app as startup task for the Windows 10 IoT with sample variables, basic math operations and sample Visual Basic code as placeholder.
   
 - [**WebView**](/VB.NET/WebView)
 
-
+  A simple WebView app created for showing how the WebView XAML control works in a VB-coded UWP application for developing browser apps and/or web wrappers.
