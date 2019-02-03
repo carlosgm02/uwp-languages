@@ -3,6 +3,13 @@ The Windows 10 SDK (also referred to as Windows SDK) is Microsoft's software dev
 
 ## Sample apps
 These sample apps show some example features developed in Visual Basic for the UWP:
+
+- [**Notepad**](/VB.NET/Notepad)
+
 - [**Background App**](/VB.NET/BackgroundApp)
 
   A simple background app as startup task for the Windows 10 IoT with sample variables, basic math operations and sample Visual Basic code as placeholder.
+  
+- [**WebView**](/VB.NET/WebView)
+
+
