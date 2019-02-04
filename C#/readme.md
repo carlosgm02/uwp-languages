@@ -11,10 +11,6 @@ These sample apps show some example features developed in C# for the UWP:
 
   A simple background app as startup task for the Windows 10 IoT with sample *WriteLines* and task instances deferral.
   
-- [**Browser**](/C%23/Browser)
-  
-  A Browser app created (by Alefesouza) for showcasing how the WebView, SQLite and other basic controls can be adapted to create a simple web Browser in C#.
-  
 - [**WebView**](/C%23/WebView)
   
   A simple WebView app created for showing how the WebView XAML control works in a C#-coded UWP application for developing browser apps and/or web wrappers.
