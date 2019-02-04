@@ -13,7 +13,7 @@ These sample apps show some example features developed in C# for the UWP:
   
 - [**Browser**](/C%23/Browser)
   
-  A Browser app created by Alefesouza for showcasing how the WebView, SQLite and other basic controls can be adapted to create a simple web Browser in C#.
+  A Browser app created (by Alefesouza) for showcasing how the WebView, SQLite and other basic controls can be adapted to create a simple web Browser in C#.
   
 - [**WebView**](/C%23/WebView)
   
