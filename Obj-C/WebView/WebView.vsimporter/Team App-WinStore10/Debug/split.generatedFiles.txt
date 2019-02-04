@@ -1,2 +1,0 @@
-Debug\split.pri
-Debug\split.map.txt
