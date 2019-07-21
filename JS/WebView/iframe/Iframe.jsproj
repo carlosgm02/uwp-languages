@@ -70,6 +70,8 @@
       <SubType>Designer</SubType>
     </AppxManifest>
     <Content Include="App.html.css" />
+    <Content Include="en-US\WWAApi.dll.mui" />
+    <Content Include="en-US\WWAHost.exe.mui" />
     <Content Include="msapp-error.html" />
     <Content Include="MainPage.html.js" />
     <Content Include="App.html" />
@@ -88,9 +90,8 @@
     <Content Include="Components\library\styles\ui-light.css" />
     <Content Include="Components\library\styles\ui-dark.css" />
     <Content Include="Components\library\fonts\Symbols.ttf" />
-    <Content Include="WWA.Api.dll" />
-    <Content Include="WWA.Ext.dll" />
-    <Content Include="WWA.Run.dll" />
+    <Content Include="WWAApi.dll" />
+    <Content Include="WWAExt.dll" />
     <Content Include="WWAHost.exe" />
     <None Include="iframe_TemporaryKey.pfx" />
   </ItemGroup>
