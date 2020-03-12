@@ -5,10 +5,12 @@ The Python UWP SDK (also referred to as CPython UWP) is a Microsoft open-source 
 These sample apps show some example features developed in Python for the UWP:
 - [**Background App**](/Python/BackgroundApp)
 
-  A simple background app as startup task for Windows 10 IoT with basic and sample prints, basic operations and the legendary Hello World!
+  A simple background app for Windows 10 IoT with sample prints, basic operations and the legendary Hello World!
+  
 - [**PythonBlinky**](/Python/PythonBlinky)
 
   A background app for Windows 10 IoT which has
+  
 - [**PythonBlinkyServer**](/Python/PythonBlinkyServer)
 
-  A background app for Windows 10 IoT which has
+  A background server app for Windows 10 IoT for server loading in Python Blinky sample.
