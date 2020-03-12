@@ -10,7 +10,7 @@ These sample apps show some example features developed in Visual Basic for the U
 
 - [**Background App**](/VB.NET/BackgroundApp)
 
-  A basic background app as startup task for the Windows 10 IoT with sample variables, basic math operations and sample Visual Basic code as placeholder.
+  A basic background app as startup task for Windows 10 IoT with sample variables, basic math operations and sample Visual Basic code as placeholder.
   
 - [**WebView**](/VB.NET/WebView)
 
