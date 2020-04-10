@@ -13,4 +13,4 @@ These sample apps show some example features developed in Python for the UWP:
   
 - [**PythonBlinkyServer**](/Python/PythonBlinkyServer)
 
-  A background server app for Windows 10 IoT made for loading server in the Python Blinky sample.
+  A background server app for Windows 10 IoT made for loading server in the PythonBlinky sample.
